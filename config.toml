@@ -1,0 +1,37 @@
+baseURL = "https://cecicifu.github.io/blog/"
+languageCode = "es-es"
+title = "Ceci Cifu"
+theme="archie"
+copyright = "© Ceci Cifu"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+mode="auto"
+useCDN=false
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/cecicifu"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/ceci_cifu"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 3
