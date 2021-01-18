@@ -25,6 +25,9 @@ git push -f https://github.com/cecicifu/blog.git dev
 
 # MAIN BRANCH ------------------------------------------------------
 
+# Remove public folder
+rm -rf public
+
 # Build the project.
 hugo -t archie # if using a theme, replace with `hugo -t <YOURTHEME>`
 
