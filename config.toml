@@ -3,9 +3,12 @@ languageCode = "es-es"
 title = "Ceci Cifu"
 theme="archie"
 copyright = "© Ceci Cifu"
+
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
+
+paginate=4 # articles per page
 
 [params]
 mode="auto"
