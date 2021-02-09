@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ceci Cifu</title>
+    <link>https://cecicifu.github.io/blog/posts/</link>
+    <description>Recent content in Posts on Ceci Cifu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <copyright>© Ceci Cifu</copyright>
+    <lastBuildDate>Mon, 18 Jan 2021 12:14:21 +0100</lastBuildDate><atom:link href="https://cecicifu.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bienvenid@s</title>
+      <link>https://cecicifu.github.io/blog/posts/bienvenidos/</link>
+      <pubDate>Mon, 18 Jan 2021 12:14:21 +0100</pubDate>
+      
+      <guid>https://cecicifu.github.io/blog/posts/bienvenidos/</guid>
+      <description>Bienvenid@s a lo que será mi blog personal sobre programación, hardware, y tecnología en general.
+Espero que paséis un buen rato leyendo mis movidas ;D</description>
+    </item>
+    
+  </channel>
+</rss>
